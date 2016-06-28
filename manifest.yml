@@ -1,0 +1,7 @@
+---
+applications:
+- name: app_name
+  memory: 128M
+  instances: 1
+  services:
+   - service_name
