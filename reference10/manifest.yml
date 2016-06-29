@@ -1,0 +1,7 @@
+---
+applications:
+- name: reference10
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
