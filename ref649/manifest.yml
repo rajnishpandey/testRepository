@@ -1,0 +1,7 @@
+---
+applications:
+- name: ref649
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
