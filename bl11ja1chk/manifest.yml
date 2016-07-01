@@ -1,0 +1,7 @@
+---
+applications:
+- name: bl11ja1chk
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
