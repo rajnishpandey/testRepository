@@ -1,0 +1,7 @@
+---
+applications:
+- name: bla656
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
