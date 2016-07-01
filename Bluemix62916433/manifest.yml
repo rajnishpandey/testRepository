@@ -1,0 +1,7 @@
+---
+applications:
+- name: Bluemix62916433
+  memory: 128M
+  instances: 1
+  services:
+   - postgre433
