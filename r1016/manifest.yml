@@ -1,0 +1,7 @@
+---
+applications:
+- name: r1016
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
