@@ -1,0 +1,7 @@
+---
+applications:
+- name: blankjava1
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
