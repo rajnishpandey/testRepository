@@ -1,0 +1,7 @@
+---
+applications:
+- name: ref822
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
