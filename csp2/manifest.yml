@@ -1,0 +1,7 @@
+---
+applications:
+- name: csp2
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
