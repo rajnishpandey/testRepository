@@ -1,0 +1,7 @@
+---
+applications:
+- name: ref11blmo
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
