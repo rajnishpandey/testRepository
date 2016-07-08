@@ -1,0 +1,7 @@
+---
+applications:
+- name: r1110
+  memory: 800M
+  instances: 1
+  services:
+   - service_name
