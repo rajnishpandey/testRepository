@@ -1,0 +1,7 @@
+---
+applications:
+- name: 11pkr90
+  memory: 800M
+  instances: 1
+  services:
+   - 11pkr90-mongoDB-9000457342
