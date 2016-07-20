@@ -1,0 +1,7 @@
+---
+applications:
+- name: 12pkr
+  memory: 800M
+  instances: 1
+  services:
+   - 12pkr-mongoDB-8993402389
