@@ -1,0 +1,7 @@
+---
+applications:
+- name: 11pkr762
+  memory: 800M
+  instances: 1
+  services:
+   - 11pkr762-mongoDB-9180527960
